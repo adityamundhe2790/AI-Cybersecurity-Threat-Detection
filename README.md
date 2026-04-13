@@ -68,7 +68,11 @@ AI-Cybersecurity-Threat-Detection/
 The system detects anomalies in the dataset and visualizes results using graphs.
 
 ---
+## 📊 Output Visualization
 
+![Output](images/output.png)
+
+---
 ##  Applications
 
 * Network intrusion detection
